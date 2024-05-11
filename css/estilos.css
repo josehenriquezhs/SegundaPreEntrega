@@ -188,7 +188,7 @@ h1 {
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 2rem;
   text-align: center;
   margin: 1.5rem;
   color: aliceblue;
@@ -200,6 +200,10 @@ h1 {
   }
 }
 
+.magen-productolife {
+  height: 80%;
+  width: 80%;
+}
 /* @media (min-width: 768px) {
   .container{grid-template-columns: 1fr 1fr;
   }
